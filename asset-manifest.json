@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed04c985.chunk.css",
+    "main.js": "/static/js/main.a3d23042.chunk.js",
+    "main.js.map": "/static/js/main.a3d23042.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d4bdb63d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d4bdb63d.js.map",
+    "static/js/2.a0610f4d.chunk.js": "/static/js/2.a0610f4d.chunk.js",
+    "static/js/2.a0610f4d.chunk.js.map": "/static/js/2.a0610f4d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec97a802f9c7bd61437e0aa663336514.js": "/precache-manifest.ec97a802f9c7bd61437e0aa663336514.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ed04c985.chunk.css.map": "/static/css/main.ed04c985.chunk.css.map",
+    "static/media/alipay.jpeg": "/static/media/alipay.8ef0f0ea.jpeg",
+    "static/media/iconfont.css": "/static/media/iconfont.caac901a.ttf",
+    "static/media/wechatpay.png": "/static/media/wechatpay.f2880030.png",
+    "static/media/weibo.jpeg": "/static/media/weibo.990e4da1.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4bdb63d.js",
+    "static/js/2.a0610f4d.chunk.js",
+    "static/css/main.ed04c985.chunk.css",
+    "static/js/main.a3d23042.chunk.js"
+  ]
+}
